@@ -1,4 +1,4 @@
-# <img src="FINAI-FINAL-LOGO.-HI.RES_.png" alt="FinAI logo" style="height: 150px; width:150px;"/> COST FinAI Agenda &amp; Infos
+# COST FinAI Agenda &amp; Infos
 
 ## FinAI
 The financial sector is the largest user of digital technologies and a major driver in the digital transformation of the economy. Financial technology (FinTech) aims to both compete with and support the established financial industry in the delivery of financial services. Globally, more than $100 billion of investments have been made into FinTech companies and Artificial Intelligence (AI) since 2010, and continue growing substantially. In early 2018, the European Commission unveiled (a) their action plan for a more competitive and innovative financial market and (b) an initiative on AI with the aim to harness the opportunities presented by technology-enabled innovations. Europe should become a global hub for FinTech, with the economy being able to benefit from the European Single Market.
