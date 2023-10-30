@@ -13,3 +13,6 @@ The Action will investigate AI and Fintech from three different angles: Transpar
 If you are interested in our Action, and would like to join and contribute, please get in touch, following the steps [here defined](https://wiki.fin-ai.eu/index.php/How_to_join). More information on participating in COST Actions, can be found [here](https://www.cost.eu/cost-actions/how-to-participate/).
 
 Join the [Fintech and AI meet-up group](https://www.meetup.com/Fintech_AI_in_Finance/) and attend one of our COST events, e.g. the weekly virtual coffee session.
+
+## Acknowledgement
+This GitHub Organization is part of the project COST CA19130 FinAI - Fintech and Artificial Intelligence in Finance - Towards a Transparent Financial Industry, and was supported by an STSM from this COST Action.
